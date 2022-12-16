@@ -1,1 +1,6 @@
 Dev
+for loop programm
+while looop programes 
+hoe to push the code inot git hiub
+hoe o make branches in repository
+
